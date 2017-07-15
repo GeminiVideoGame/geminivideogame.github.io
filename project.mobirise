@@ -216,7 +216,7 @@
             }
           },
           "title": "Meet Ron...",
-          "text": "Ron is a middle aged man&nbsp;who works in the mailroom at Gemini Cloud. Finding a confidential letter, he finds out his company is going under, due to the corrupt CEO. <br><br>Throughout the game Ron will try to avoid guards, and collects different objectives and pieces of information, by either interacting aggressively or passively interacting with different NPCs. This will greatly affect the players singing, and make the choice to either save the company or himself.<br>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -591,7 +591,7 @@
               "size": 0
             }
           },
-          "title": "Assertion Bar",
+          "title": "Balance Bar",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -610,8 +610,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -620,8 +620,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -630,8 +630,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -640,8 +640,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
                 "caption": "Type caption here",
                 "active": true
               }
