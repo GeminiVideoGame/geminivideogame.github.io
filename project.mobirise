@@ -164,7 +164,7 @@
             "paddingBottom": 1,
             "bgColor": "#7e9b9f"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"twitter.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"github.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"steam.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span></a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://twitter.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://github.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"steam.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span></a>  "
         },
         {
           "_tags": [
@@ -610,8 +610,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -620,8 +620,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -630,8 +630,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -640,8 +640,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44820.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112121.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
                 "caption": "Type caption here",
                 "active": true
               }
