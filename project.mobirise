@@ -610,8 +610,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -620,8 +620,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -630,8 +630,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -640,8 +640,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44822.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112123.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -708,10 +708,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Story Design",
@@ -720,10 +724,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Art Direction",
@@ -732,10 +740,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "UX/UI",
@@ -744,10 +756,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Game/Level Design",
@@ -756,10 +772,14 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Programming",
