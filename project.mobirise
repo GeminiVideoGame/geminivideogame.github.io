@@ -611,8 +611,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -621,8 +621,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -631,8 +631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -641,8 +641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -921,7 +921,7 @@
             }
           },
           "title2": "Halls High",
-          "subtitle2": "2D platformer coming of age game",
+          "subtitle2": "2D platformer, Education, &nbsp;Coming of Age",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/high_halls\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
