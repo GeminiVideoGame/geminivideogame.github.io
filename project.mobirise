@@ -611,8 +611,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -621,8 +621,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -631,8 +631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -641,8 +641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44816.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112117.png",
                 "caption": "Type caption here",
                 "active": true
               }
