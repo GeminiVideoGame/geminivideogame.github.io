@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -102,7 +102,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -121,7 +121,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-g\">NEW FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-i\">MEET THE TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-d\">GAMES YOU MIGHT LIKE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">DOWNLOAD NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-g\">NEW FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-i\">MEET THE TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-d\">GAMES YOU MIGHT LIKE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY &nbsp;NOW</a></li>"
         },
         {
           "_inherit": "header1",
@@ -146,7 +146,7 @@
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false
           },
           "title": "Gemini&nbsp;",
@@ -164,7 +164,7 @@
             "paddingBottom": 1,
             "bgColor": "#7e9b9f"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://twitter.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://github.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"steam.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span></a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://twitter.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://twitter.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>     "
         },
         {
           "_tags": [
@@ -296,7 +296,8 @@
               "border-color": "#28324e"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "18px"
             },
             "H4": {
               "color": "#ffffff"
@@ -307,7 +308,7 @@
           "_params": {
             "iconsBgColor": "#28324e",
             "paddingTop": 2,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -325,7 +326,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -339,9 +340,9 @@
               "color": "#fff"
             }
           },
-          "title1": "Obstacles",
+          "title1": "Enemies",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;",
+          "caption1": "Sneak, Hide, and Run to Avoid getting caught by Patrolling Guards. Seriously though, don’t try anything with those guys, they’re trained security guards… and you work in the mailroom.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -355,9 +356,9 @@
               "color": "#fff"
             }
           },
-          "title2": "Interactions",
+          "title2": "NPCs",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+          "caption2": "The workers in the office can be your friends… or not. Talk, Persuade, or just Punch your way through the company's workforce as you make your way through the treacherous, carpet covered, corporate office.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -373,7 +374,7 @@
           },
           "title3": "Objectives",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+          "caption3": "As you make your way through the office, don’t forget the reason you're there in the first place. Collect papers, keys, people’s briefcases, and even hack computers in your journey to expose the CEO.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -531,7 +532,7 @@
             "showButton": false
           },
           "title": "NEW FEATURES",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
+          "text": "See what new features the Gemini Team have created!",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -567,7 +568,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -610,8 +611,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -620,8 +621,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -630,8 +631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -640,8 +641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44824.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -735,8 +736,8 @@
             }
           },
           "title2": "Art Direction",
-          "subtitle2": "Kai Drayton-Yee",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+          "subtitle2": "@KaiN_DY",
+          "caption2": "Kai Drayton-Yee is the Lead Artist for Gemini.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -909,7 +910,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/colortest-mid-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -922,10 +923,10 @@
           "title2": "Halls High",
           "subtitle2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/high_halls\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/colortest-pass-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -936,12 +937,12 @@
             }
           },
           "title3": "Amnesiacs",
-          "subtitle3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
+          "subtitle3": "Text-Based, Mystery, Horror, CYOA",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://twitter.com/AmnesiacsTheVG\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/colortest-pass-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -952,7 +953,7 @@
             }
           },
           "title4": "LUCID",
-          "subtitle4": "&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
+          "subtitle4": "2D Puzzle Platformer, _______",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
