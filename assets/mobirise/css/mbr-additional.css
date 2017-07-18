@@ -502,6 +502,10 @@ h6,
 #header3-r .mbr-section-subtitle {
   text-align: center;
 }
+#features3-p H5 {
+  font-size: 16px;
+  color: #000000;
+}
 #form2-d .mbr-section-title {
   color: #fff;
 }
