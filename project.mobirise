@@ -146,11 +146,11 @@
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "title": "Gemini&nbsp;",
-          "text": "<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;<br>",
+          "text": "<br>A Top Down Corporate Thriller<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
@@ -216,7 +216,7 @@
             }
           },
           "title": "Meet Ron...",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;After reading a confidential letter, Ron finds out his company is going under and is forced to utilize passive and aggressive actions in order to avoid guards, collect company information, and ultimately save the his own skin … or the company he works for.&nbsp;</p><p>Project Gemini is a top down, corporate thriller full of excitement and tension. Sneak past enemies,&nbsp;<br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;After reading a confidential letter, Ron finds out his company is going under and is forced to utilize passive and aggressive actions in order to avoid guards, collect company information, and ultimately save the his own skin … or the company he works for.&nbsp;</p><p>Project Gemini is a top down, corporate thriller full of excitement and tension. Sneak past enemies, persuade, interact and distract your co-workers as you make your way through Gemini Cloud Co. on your jouney towards exposing its corrupt CEO.<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/document/d/19-Uw7CReQsJAmzJ0Iy_fqrsk8uaVsrgPU9M0Gvkn9K8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
@@ -611,8 +611,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4482.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11213.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -621,8 +621,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4482.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11213.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -631,8 +631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4482.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11213.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -641,8 +641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4482.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11213.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4480.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11211.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -684,6 +684,12 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
           "_anchor": "features3-p",
           "_params": {
             "paddingTop": "1",
@@ -784,7 +790,7 @@
             }
           },
           "title5": "Programming",
-          "subtitle5": "@mournsky",
+          "subtitle5": "@ellerylatham",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -798,13 +804,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "font-size": "16px",
-              "color": "#000000"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -900,7 +900,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lobbydesk1-600x412.png",
+              "src": "@PROJECT_PATH@/assets/images/dm-splash-art-600x360.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -911,9 +911,9 @@
             }
           },
           "title1": "Dual Meanings",
-          "subtitle1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
+          "subtitle1": "Action, Adventure",
           "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://twitter.com/dual_meanings\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
@@ -959,7 +959,7 @@
             }
           },
           "title4": "LUCID",
-          "subtitle4": "2D Puzzle Platformer, _______",
+          "subtitle4": "2D Puzzle Platformer",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
