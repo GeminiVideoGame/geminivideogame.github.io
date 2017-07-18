@@ -611,8 +611,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -621,8 +621,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -631,8 +631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -641,8 +641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44814.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112115.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -894,7 +894,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/colortest1-aggro-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/lobbydesk1-600x412.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -921,12 +921,12 @@
             }
           },
           "title2": "Halls High",
-          "subtitle2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,&nbsp;",
+          "subtitle2": "2D platformer coming of age game",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/high_halls\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/amnesiacs-cover-600x366.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -942,7 +942,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://twitter.com/AmnesiacsTheVG\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/lucid-title-1-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
