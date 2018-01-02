@@ -1,5 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+
+
 
 
 
@@ -471,6 +477,20 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#msg-box1-y H3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: right;
+}
+#msg-box1-y .btn {
+  font-family: 'Lora', serif;
+}
+#msg-box1-z H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#msg-box1-z .btn {
+  font-family: 'Lora', serif;
+}
 #features7-4 .card-subtitle {
   color: #bcbcbc;
 }
@@ -494,6 +514,7 @@ h6,
 }
 #msg-box5-5 H3 {
   text-align: left;
+  color: #28324e;
 }
 #msg-box5-5 P {
   text-align: left;
@@ -502,9 +523,24 @@ h6,
 #header3-r .mbr-section-subtitle {
   text-align: center;
 }
-#features3-p H5 {
-  font-size: 16px;
-  color: #000000;
+#header3-r .mbr-section-title {
+  color: #ffffff;
+}
+#features1-v .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #efefef;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #585656;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-text {
+  color: #232323;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-title {
+  color: #232323;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
 }
 #form2-d .mbr-section-title {
   color: #fff;

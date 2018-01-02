@@ -19,11 +19,18 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#585656",
+        "#232323",
+        "#f7f7f7"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 36,
+    "versionPublish": "4.5.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -92,17 +99,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -120,8 +127,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-g\">NEW FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-i\">MEET THE TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-d\">GAMES YOU MIGHT LIKE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY &nbsp;NOW</a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GEMINI</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-g\">WHAT'S NEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-r\">MEET THE TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\">GAMES YOU MIGHT LIKE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY &nbsp;NOW</a></li>"
         },
         {
           "_inherit": "header1",
@@ -131,40 +138,109 @@
           "_name": "header4",
           "_anchor": "header4-1",
           "_params": {
-            "parallax": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/levelmockup2-2000x1649.png",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-01-01-at-7.31.04-pm-2000x1123.png",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "Gemini&nbsp;",
           "text": "<br>A Top Down Corporate Thriller<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://twitter.com/geminivideogame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-5\" data-toolbar=\"-mbrBtnMove\">OUT NOW!</a>  "
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEMINI is now on Twitter!",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://twitter.com/geminivideogame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Twitter &nbsp;&nbsp;<span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-k",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-y",
+          "_styles": {
+            "H3": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#7e9b9f"
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://twitter.com/GeminiVideoGame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a>      "
+          "title": "GEMINI is now on itch.io!",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://twitter.com/geminivideogame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp; itch.io</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box1-z"
         },
         {
           "_tags": [
@@ -173,25 +249,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-2",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -216,8 +292,8 @@
             }
           },
           "title": "Meet Ron...",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;After reading a confidential letter, Ron finds out his company is going under and is forced to utilize passive and aggressive actions in order to avoid guards, collect company information, and ultimately save the his own skin … or the company he works for.&nbsp;</p><p>Project Gemini is a top down, corporate thriller full of excitement and tension. Sneak past enemies, persuade, interact and distract your co-workers as you make your way through Gemini Cloud Co. on your jouney towards exposing its corrupt CEO.<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/document/d/19-Uw7CReQsJAmzJ0Iy_fqrsk8uaVsrgPU9M0Gvkn9K8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "text": "<p>&nbsp; &nbsp;After reading a confidential letter, Ron finds out his company is going under and is forced to avoid guards, collect company information, and find his way through Gemini Cloud Co.</p><p>Project Gemini is a top down, corporate thriller full of excitement and tension. Sneak past enemies, persuade, interact and distract your co-workers as you make your way through Gemini Cloud Co. on your jouney towards exposing its corrupt CEO.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#msg-box5-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -226,8 +302,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": 0,
             "paddingTop": "1",
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#7e9b9f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -269,14 +352,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#7e9b9f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
+            ]
           },
           "_anchor": "gallery2-l",
           "articleLayout": false,
@@ -306,27 +382,27 @@
           "_name": "features7",
           "_anchor": "features7-4",
           "_params": {
-            "iconsBgColor": "#28324e",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#475577",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#28324e",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#475577",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -429,8 +505,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#475577",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -472,14 +555,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#475577",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-6",
           "articleLayout": false,
@@ -513,25 +589,25 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-f",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/levelmockup2-2000x1649.png",
-            "bgColor": "#F2F2F2",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-01-01-at-7.31.04-pm-2000x1123.png",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
-          "title": "NEW FEATURES",
+          "title": "WHAT'S NEW<br>",
           "text": "See what new features the Gemini Team have created!",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -542,7 +618,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#28324e"
             },
             "P": {
               "text-align": "left"
@@ -550,35 +627,34 @@
           },
           "_anchor": "msg-box5-5",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "38",
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/colortest1-aggro-1400x875.png",
+              "src": "@PROJECT_PATH@/assets/images/draw4-1-1400x1400.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -592,9 +668,9 @@
               "size": 0
             }
           },
-          "title": "Balance Bar",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br> ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "WE'RE ON ITCH.IO!",
+          "text": "We've released GEMINI on Itch.io. It is available for both Mac and PC. <br>&nbsp;Leave us a comment and tell us what you think!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://gameheads.itch.io/gemini\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
         },
         {
           "_inherit": "gallery1",
@@ -603,16 +679,23 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "2",
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#c1c1c1",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -621,8 +704,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -631,8 +714,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -641,19 +724,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x4484.png",
-                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x11215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/coffeetable-2000x1121-800x44818.png",
+                "image": "@PROJECT_PATH@/assets/images/coffeetable-2000x112119.png",
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#c1c1c1",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
+            ]
           },
           "_anchor": "gallery2-i",
           "articleLayout": false,
@@ -663,6 +739,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -671,128 +750,78 @@
           "_name": "header3",
           "_anchor": "header3-r",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "5",
+            "bgColor": "#475577"
           },
           "title": "MEET THE TEAM",
           "meta": ""
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H5": {
-              "font-size": "16px",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "features3-p",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#efefef",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "Story Design",
-          "subtitle1": "@sashawill_19",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title2": "Art Direction",
-          "subtitle2": "@KaiN_DY",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title3": "UX/UI",
-          "subtitle3": "@THizzleDizzle1<br><br>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title4": "Game/Level Design",
-          "subtitle4": "@jude_abear",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-15-at-2-600x462.png",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title5": "Programming",
-          "subtitle5": "@ellerylatham",
-          "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -801,10 +830,69 @@
               "active": true
             }
           },
+          "title1": "Story Design",
+          "subtitle1": "@SashaWill_019",
+          "caption1": "Sasha Williams is 16 years old and works as the Story Designer and Art Designer for Team Gemini. ",
+          "title2": "Art Direction",
+          "subtitle2": "@NyameDev",
+          "caption2": "Kai is the 18 year old Project Manager and Lead Artist.  She also runs the <a href=\"https://twitter.com/GeminiVideoGame\" target=\"_blank\"><b>GEMINI TWITTER</b></a> account.",
+          "title3": "UX/UI",
+          "subtitle3": "@THizzleDizzle1",
+          "caption3": "Trevor is an 18 year old UX/UI Designer and Programmer on his first game development team. ",
+          "title4": "Game/Level Design",
+          "subtitle4": "@Jude_Abear",
+          "caption4": "Jude is a 16 year old Game and Level Designer who takes a technical approach to his design. ",
+          "title5": "Programming",
+          "subtitle5": "@ElleryLatham",
+          "caption5": "Ellery is a 16 year old Programmer and Game Designer. He is the Lead Programmer for  Team Gemini.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"http://twitter.com/SashaWill_019\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://twitter.com/NyameDev\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://twitter.com/THizzleDizzle1\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://twitter.com/Jude_Abear\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"http://twitter.com/ElleryLatham\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-v",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#585656"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#475577"
+          },
+          "title": "&nbsp;&nbsp;",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w"
         },
         {
           "_styles": {
@@ -821,18 +909,18 @@
           "_name": "form2",
           "_anchor": "form2-d",
           "_params": {
-            "paddingTop": "1",
+            "showTitle": true,
+            "showSubTitle": false,
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "SUBSCRIBE FOR IMPORTANT UPDATES&nbsp;",
           "subtitle": "Subscribe to our Newsletter",
@@ -862,10 +950,10 @@
           "_name": "header3",
           "_anchor": "header3-8",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#c1c1c1",
-            "showMeta": false
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#c1c1c1"
           },
           "title": "Games You Might Like",
           "meta": "By John Smith posted July 20, 2016"
@@ -877,26 +965,26 @@
           "_name": "features3",
           "_anchor": "features3-7",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -913,7 +1001,7 @@
           "title1": "Dual Meanings",
           "subtitle1": "Action, Adventure",
           "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://twitter.com/dual_meanings\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://gameheads.itch.io/dual-meanings\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-18-at-2-600x337.png",
@@ -929,7 +1017,7 @@
           "title2": "Halls High",
           "subtitle2": "2D platformer, Education, &nbsp;Coming of Age",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/high_halls\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://gameheads.itch.io/hallshigh\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/amnesiacs-cover-600x366.png",
@@ -945,7 +1033,7 @@
           "title3": "Amnesiacs",
           "subtitle3": "Text-Based, Mystery, Horror, CYOA",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://twitter.com/AmnesiacsTheVG\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://gameheads.itch.io/amnesiacs\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/lucid-title-1-600x375.png",
@@ -961,7 +1049,7 @@
           "title4": "LUCID",
           "subtitle4": "2D Puzzle Platformer",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://gameheads.itch.io/lucid\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -994,8 +1082,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "3",
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#28324e",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1027,14 +1122,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#28324e",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": false
+            ]
           },
           "_anchor": "gallery3-9",
           "articleLayout": false,
